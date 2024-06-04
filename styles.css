@@ -1,0 +1,29 @@
+header{
+  background-color: black;
+}
+header h1{
+  color: white;
+  text-align: center;
+}
+main{
+  background-color: gray;
+  padding: 30px;
+  margin: 30px;
+}
+main p {
+  color: white;
+}
+main h1 {
+  color: white;
+  text-align: center;
+}
+main a {
+  color: white;
+}
+footer{
+  background-color: black;
+  color: white;
+}
+footer p{
+  text-align: center;
+}
